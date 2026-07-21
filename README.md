@@ -2,7 +2,7 @@
 
 # Zinc Addon
 
-**Minecraft için Fabric tabanlı Zinc Addon**
+**A Fabric-based addon for Minecraft**
 
 ![Minecraft 1.21.11](https://img.shields.io/badge/Minecraft-1.21.11-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Fabric](https://img.shields.io/badge/Loader-Fabric-D9C08C?style=for-the-badge)
@@ -10,30 +10,30 @@
 
 </div>
 
-## Hakkında
+## About
 
-Zinc Addon, **Minecraft 1.21.11** için geliştirilmiş bir Fabric eklentisidir.
+Zinc Addon is a Fabric addon built for **Minecraft 1.21.11**.
 
-## Kurulum
+## Installation
 
-1. Oyununuzun **Minecraft 1.21.11** sürümünü kullandığından emin olun.
-2. Uyumlu bir **Fabric Loader** kurulumu yapın.
-3. [Son sürüm dosyasını](./zinc-addon-fabric-1.21.11.jar) indirin.
-4. Dosyayı Minecraft kurulumunuzdaki **mods** klasörüne taşıyın.
-5. Oyunu Fabric profiliyle başlatın.
+1. Make sure you are using **Minecraft 1.21.11**.
+2. Install a compatible version of **Fabric Loader**.
+3. Download the [latest addon file](./zinc-addon-fabric-1.21.11.jar).
+4. Move the file into your Minecraft **mods** folder.
+5. Launch the game using your Fabric profile.
 
-## Gereksinimler
+## Requirements
 
 - Minecraft 1.21.11
 - Fabric Loader
-- Fabric API (gerekiyorsa)
+- Fabric API (if required)
 
-## Dosyalar
+## Files
 
-| Dosya | Açıklama |
+| File | Description |
 | --- | --- |
-| zinc-addon-fabric-1.21.11.jar | Zinc Addon Fabric sürümü |
+| zinc-addon-fabric-1.21.11.jar | Zinc Addon Fabric build |
 
-## Lisans
+## License
 
-Bu proje [BSD 3-Clause](./LICENSE) lisansı altında sunulmaktadır.
+This project is distributed under the [BSD 3-Clause](./LICENSE) license.
