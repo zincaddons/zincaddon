@@ -37,3 +37,24 @@ Zinc Addon is a Fabric addon built for **Minecraft 1.21.11**.
 ## License
 
 This project is distributed under the [BSD 3-Clause](./LICENSE) license.
+
+
+## Modules
+
+Browse the complete categorized module reference in [MODULES.md](./MODULES.md).
+
+## Showcase
+
+Base-hunting and world-analysis screenshots captured with Zinc Addon.
+
+| Base analysis | Infrastructure view |
+| --- | --- |
+| ![Base analysis](./base_hunt_2.jpg) | ![Large base overview](./base_hunt_3.jpg) |
+
+| Farm and storage scan | Underground storage |
+| --- | --- |
+| ![Farm scan](./base_hunt_6.jpg) | ![Storage scan](./base_hunt_7.jpg) |
+
+| Spawner discovery | Chunk and tunnel analysis |
+| --- | --- |
+| ![Spawner discovery](./base_hunt_8.jpg) | ![Tunnel analysis](./base_hunt_10.jpg) |
