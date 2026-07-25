@@ -16,15 +16,15 @@ Base-hunting and world-analysis screenshots captured with Zinc Addon.
 
 | Base analysis | Infrastructure view |
 | --- | --- |
-| ![Base analysis](./base_hunt_2.jpg) | ![Large base overview](./base_hunt_3.jpg) |
+| ![Base analysis](./assets/screenshots/base_hunt_2.jpg) | ![Large base overview](./assets/screenshots/base_hunt_3.jpg) |
 
 | Farm and storage scan | Underground storage |
 | --- | --- |
-| ![Farm scan](./base_hunt_6.jpg) | ![Storage scan](./base_hunt_7.jpg) |
+| ![Farm scan](./assets/screenshots/base_hunt_6.jpg) | ![Storage scan](./assets/screenshots/base_hunt_7.jpg) |
 
 | Spawner discovery | Chunk and tunnel analysis |
 | --- | --- |
-| ![Spawner discovery](./base_hunt_8.jpg) | ![Tunnel analysis](./base_hunt_10.jpg) |
+| ![Spawner discovery](./assets/screenshots/base_hunt_8.jpg) | ![Tunnel analysis](./assets/screenshots/base_hunt_10.jpg) |
 
 ## About
 
