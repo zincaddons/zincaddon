@@ -1,36 +1,49 @@
 <div align="center">
 
+
 # Zinc Addon
 
+
 **A Fabric-based addon for Minecraft**
+
 
 ![Minecraft 1.21.11](https://img.shields.io/badge/Minecraft-1.21.11-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Fabric](https://img.shields.io/badge/Loader-Fabric-D9C08C?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-BSD--3--Clause-4B8BBE?style=for-the-badge)
 
+
 </div>
+
 
 ## Showcase
 
+
 Base-hunting and world-analysis screenshots captured with Zinc Addon.
+
 
 | Base analysis | Infrastructure view |
 | --- | --- |
 | ![Base analysis](./assets/screenshots/base_hunt_2.jpg) | ![Large base overview](./assets/screenshots/base_hunt_3.jpg) |
 
+
 | Farm and storage scan | Underground storage |
 | --- | --- |
 | ![Farm scan](./assets/screenshots/base_hunt_6.jpg) | ![Storage scan](./assets/screenshots/base_hunt_7.jpg) |
+
 
 | Spawner discovery | Chunk and tunnel analysis |
 | --- | --- |
 | ![Spawner discovery](./assets/screenshots/base_hunt_8.jpg) | ![Tunnel analysis](./assets/screenshots/base_hunt_10.jpg) |
 
+
 ## About
+
 
 Zinc Addon is a Fabric addon built for **Minecraft 1.21.11**.
 
+
 ## Installation
+
 
 1. Make sure you are using **Minecraft 1.21.11**.
 2. Install a compatible version of **Fabric Loader**.
@@ -38,21 +51,34 @@ Zinc Addon is a Fabric addon built for **Minecraft 1.21.11**.
 4. Move the file into your Minecraft **mods** folder.
 5. Launch the game using your Fabric profile.
 
+
 ## Requirements
+
 
 - Minecraft 1.21.11
 - Fabric Loader
 
+
 ## Files
+
 
 | File | Description |
 | --- | --- |
 | zinc-addon-fabric-1.21.11.jar | Zinc Addon Fabric build |
 
+
 ## Modules
+
 
 Browse the complete categorized module reference in [MODULES.md](./MODULES.md).
 
+
+## Community
+
+Join the [Zinc Addon Discord server](https://discord.gg/zincaddon) for updates, support, and community discussion.
+
 ## License
 
+
 This project is distributed under the [BSD 3-Clause](./LICENSE) license.
+
